@@ -1,9 +1,9 @@
 name: Feature Request
 description: Suggest an idea for this project without a plan for implementation
-title: "[Bug]: "
-labels: ["bug", "triage"]
+title: "[Feature Request]: "
+labels: ["feature", "triage"]
 assignees:
-  - octocat
+  - jerboas86
 body:
   - type: markdown
     attributes:
