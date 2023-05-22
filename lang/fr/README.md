@@ -1,7 +1,7 @@
 # Astrone
 
 <p align="center">
-  <a href="https://github.com/alvarotrigo/fullPage.js#fullpagejs">English</a> |
+  <a href="https://github.com/Jerboas86/astrone-feedback/">English</a> |
   <span>Français</span>
 </p>
 
