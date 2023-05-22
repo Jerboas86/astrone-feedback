@@ -1,53 +1,53 @@
 # Astrone
 
 <p align="center">
-  <span>🇬🇧 English</span> |
-  <a href="https://github.com/Jerboas86/astrone-feedback/tree/master/lang/fr">🇫🇷 Français</a>
+  <a href="https://github.com/Jerboas86/astrone-feedback/tree/master/lang/en">🇬🇧 English</a> |
+  <span>🇫🇷 Français</span>
 </p>
 
 ### Audio Testing Platform
 
-Astrone is a web application to create, and share your own audio interactive applications.
-you can access it at [astrone.app](www.astrone.app).
+Astrone est une application web qui permet de créer, et partager facilement des applications DSP.
+L'application est accessible sur [astrone.app](www.astrone.app)
 
 ## Code Of Conduct
 
-Astrone community is build to support **all users**. We want to provide a friendly and constructive environnement.\
-**Everyone** interacting in the Astrone project is exepected to follow our [code of conduct](https://github.com/Jerboas86/astrone-feedback/tree/master/CODE_OF_CONDUCT.md)
+La communauté Astrone est destinée à soutenir **tous ses utilisateurs**. Nous souhaitons créer un environnement acceuillant et constructif.\
+**Toute persone** interagissant dans le cadre du projet Astrone se doit de suivre notre [code de conduite](https://github.com/Jerboas86/astrone-feedback/tree/master/CODE_OF_CONDUCT.md).
 
-## Bug Report
+## Rapport de bug
 
-### What is a bug ?
+### Qu'est ce qu'un bug ?
 
-> A software bug is an error, flaw or fault in the design, development, or operation of computer software that causes it to produce an incorrect or unexpected result, or to behave in unintended ways.\
+> Un bug logiciel est une erreur, un manque, ou un défaut dans le design, le
+> dévellopement, ou le fonctionnement d'un logiciel. Il entraine un résultat ou
+> comportement erroné ou inattendu.\
 > [Wikipedia](https://en.wikipedia.org/wiki/Software_bug)
 
-### What is a bug report ?
+### Qu'est ce qu'un rapport de bug ?
 
-A bug report is a document that describes the bug, gathers all informations required to fix it.
+Un rapport de bug est un document qui décrit le bug, et reunit l'ensemble des informations nécessaire pour le corriger.
 
-### Bug reports are welcome
+### Les rapports de bug sont la bienvenue
 
-We encourage you to let us know when you encouter a bug in our application, and fill a bug report.\
-To start a bug report, open an [issue](https://github.com/Jerboas86/astrone-feedback/issues/new/choose) and select Bug Report.
-The sooner the bug is reported, the quicker it will be fixed.
+Faîtes nous savoir si vous avez rencontré un bug dans notre application, en remplissant un rapport de bug.\
+Pour remplir un rapport de bug, ouvrez une [issue](https://github.com/Jerboas86/astrone-feedback/issues/new/choose) et sélectionnez Bug Report. Les rapports de bug peuvent être écrit en français ou en anglais. Plus vite le bug sera rapporter, plus vite il sera corrigé.
 
-## Feature Request
+## Demande de nouvelle fonctionnalité
 
-### What is a feature request?
+### Qu'est ce qu'une demande de nouvelle fonctionnalité ?
 
-A feature request is the process to ask for a new feature to be added in Astrone.
+Une demande de nouvelle fonctionnalité est le process par lequel une nouvelle fonctionalité peut être ajouter à Astrone.
 
-### Feature requests are welcome
+### Les demandes de nouvelles fonctionnalités sont la bienvenue
 
-To start a feature request, open an [issue](https://github.com/Jerboas86/astrone-feedback/issues/new/choose) and select Feature Request.
+Pour remplir demande de nouvelle fonctionnalité, ouvrez une [issue](https://github.com/Jerboas86/astrone-feedback/issues/new/choose) et sélectionnez Feature Request. Les demandes de nouvelle fonctionnalité peuvent être écrit en français ou en anglais.
 
 ## Discussions
 
-Ask your questions in the [Discussions panel](https://github.com/Jerboas86/astrone-feedback/discussions).
+Venez poser vos questions dans l'onglet [Discussions](https://github.com/Jerboas86/astrone-feedback/discussions).
 
 ## License
 
-For now, Astrone application is closed source code.
-On the other hand, all documents in this repository are
-open source under [GPLv3 license](https://github.com/Jerboas86/astrone-feedback/tree/master/LICENSE.md).
+Pour le moment, le code source de l'application Astrone est fermé. Par contre, la totalité des documents présents
+dans ce repository sont open source sous license [GPLv3 license](https://github.com/Jerboas86/astrone-feedback/tree/master/LICENSE.md).

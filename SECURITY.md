@@ -1,47 +1,44 @@
-Thanks for helping make Astrone safe for everyone 💙.
+Merci de nous aider à rendre Astrone plus sûr 💙.
 
-## Supported Version
+## Version supportée
 
-Supported version is the version available at [astrone.app](https://www.astrone.app)
+La version supportée est la version disponible sur [astrone.app](https://www.astrone.app)
 
-## Reporting Security Issues
+## Rapporter une vulnérabilité
 
-Security is of the highest importance and all security vulnerabilities or suspected security vulnerabilities should be reported to Astrone privately,
-to minimize attacks against current users of Astrone before they are fixed. Vulnerabilities will be investigated and patched on the next patch (or minor)
-release as soon as possible. In the meantime, this information could be kept entirely internal to the project.
+La sécurité est de première importance et toutes vulnérabilités ou potentielles vulnérabilités devraient être rapporter à Astrone de manière privée, afin de minimiser le risque d'attaques contre les utilisateurs actuels d'Astrone, en attendant qu'elles soient corrigés. Les vulnérabilités seront analyser et corriger à la prochaine version mineure aussi rapidement que possible.
+En attendant, cette information devrait être gardé confidientiel.
 
-If you believe you have found a security vulnerability in Astrone, please report it IMMEDIATLY to us **[example@monmail.com](mailto:example@monmail.com)**.
-You will receive a response from us within 72 hours. If the issue is confirmed, we will release a patch as soon as possible depending on complexity.
+Si vous pensez avoir trouvé une vulnérabilité dans Astrone, rapporter la nous IMMEDIATEMENT à **[example@monmail.com](mailto:example@monmail.com)**. Vous recevrez une réponse de notre part dans les 72 heures. Si la vulnérabilité est confirmée, nous deploirons une correction aussi rapidement que possible au vu de la complexité du correctif.
 
-**IMPORTANT: Please do not report security vulnerabilities through public GitHub issues, discussions, or pull requests.**
+**INPORTANT: Veuillez ne pas rapporter de vulnérabilités à travers une issue Github publique, l'onglet discussions, ou une pull request.**
 
-### Proposed email content
+### Contenu d'email conseillé
 
-Please include as much of the information listed below as you can to help us better understand and resolve the issue:
+Afin de nous aider à mieux comprendre et résoudre le problème, veuillez inclure le plus d'informations possibles de la liste ci-dessous:
 
-- The type of issue (e.g., buffer overflow, SQL injection, or cross-site scripting)
-- Full paths of source file(s) related to the manifestation of the issue
-- The location of the affected source code (direct URL)
-- Any special configuration required to reproduce the issue
-- Step-by-step instructions to reproduce the issue
-- Proof-of-concept or exploit code (if possible)
-- Impact of the issue, including how an attacker might exploit the issue
+- La catégorite du problème (buffer overflow, SQL injection, or cross-site scripting)
+- La localisation du code source affecté (URL)
+- Configurations requise pour reproduire le problème
+- Instructions étape par étape pour reproduire le problème
+- Preuve de concept ou code d'exploitation (si possible)
+- Impact du problème, notament comment un attaquant pourrait exploiter le problème
 
-This information will help us triage your report more quickly.
+Cette information nous aidera à trier votre rapport plus efficacement.
 
-## Patch, Release, and Disclosure
+## Correctif, mise à jour, et publication
 
-The Astrone Security Team will respond to vulnerability reports as follows:
+L'équipe de sécurité d'Astrone répondra au rapport de vulnérabilité comme suit:
 
-1.  The Security Team will investigate the vulnerability and determine its effects and criticality.
-2.  If the issue is not deemed to be a vulnerability, the Security Team will follow up with a detailed reason for rejection.
-3.  The Security Team will initiate a conversation with the reporter within 3 days.
-4.  If a vulnerability is acknowledged and the timeline for a fix is determined, the Security Team will work on a plan to communicate with the appropriate community, including identifying mitigating steps that affected users can take to protect themselves until the fix is rolled out.
-5.  The Security Team will also create a [CVSS](https://www.first.org/cvss/specification-document) using the [CVSS Calculator](https://www.first.org/cvss/calculator/3.0). The Security Team makes the final call on the calculated CVSS; it is better to move quickly than making the CVSS perfect. Issues may also be reported to [Mitre](https://cve.mitre.org/) using this [scoring calculator](https://nvd.nist.gov/vuln-metrics/cvss/v3-calculator). The CVE will initially be set to private.
-6.  The Security Team will work on fixing the vulnerability and perform internal testing before preparing to roll out the fix.
-7.  A public disclosure date is negotiated by the Astrone Security Team, and the bug submitter. We prefer to fully disclose the bug as soon as possible once a user mitigation or patch is available. It is reasonable to delay disclosure when the bug or the fix is not yet fully implemented, and the solution is not well-tested. The timeframe for disclosure is from immediate (especially if it’s already publicly known) to a few weeks. The Astrone Security Team holds the final say when setting a public disclosure date.
-8.  Once the fix is confirmed, the Security Team will patch the vulnerability in the next patch or minor release. Upon release of the patched version of Astrone, we will follow the **Public Disclosure Process**.
+1. L'équipe de sécurité analysera la vulnérabilité et déterminera ses effets et sa criticité.
+2. Si le problème n'est pas catégoriser comme vulnérabilité, l'équipe de sécurité vous donnera les détails de sa décision.
+3. L'équipe de sécurité engagera, dans les 3 jours, une conversation avec le rapporteur.
+4. Si la vulnérabilté est reconnu et qu'une feuille de route pour le correctif est établi, l'équipe de sécurité traivaillera à l'élaboration d'un plan pour informer les personnes appropriés, entre autres les étapes de mitigations que les utilisateurs peuvent prendre pour se protéger en attendant la mise à jour contenant le correctif.
+5. L'équipe de sécurité créera également une [CVSS](https://www.first.org/cvss/specification-document) grâce au [CVSS Calculator](https://www.first.org/cvss/calculator/3.0). La décision final sur le niveau du CVSS calculé revient à l'équipe de sécurité. Il est préférable d'agir rapidement plutôt que d'obtenir un CVSS idéal. La vulnérabilité peut également être rapportée à [Mitre](https://cve.mitre.org/) sur la base du [scoring calculator](https://nvd.nist.gov/vuln-metrics/cvss/v3-calculator). La CVE sera intialement privée.
+6. L'équipe de sécurité travaillera à un résolution de la vulnérabilité et effectuera des tests internes avant la mise à jour du correctif.
+7. La date de divulgation est négocié entre l'équipe de sécurité d'Astrone, et le rapporteur. Nous souhaitons qu'une publication complête de la vulnérabilité soit réalisée aussi rapidement que possible à partir du moment où la mise à jour du correctif est accessible. Il est entendu qu'une vulnérabilité ne devrait pas être divulguée si le correctif n'est pas pleinement implémenté, et que la solution n'a pas encore été suffisament testé. Le moment de la publication peut être immédiate (en particulier si elle est déjà publiée publiquement) jusqu'à quelques semaines. L'équipe de sécurité prendra la décision quand à la date de publication.
+8. Une fois le correctif confirmé, l'équipe de sécurité corrigera la vulnérabilité à la prochaine mise à jour. A la publication de la version corrigée d'Astrone, nous suivrons le **process de publication**.
 
-### Public Disclosure Process
+### Process de publication
 
-The Security Team publishes a public [advisory](https://github.com/jerboas86/astrone-feedback/security/advisories) to the Astrone community via GitHub. In most cases, additional communication via other channels will assist in educating Astrone users.
+L'équipe de sécurité publie un [public advisory](https://github.com/jerboas86/astrone-feedback/security/advisories) à la communauté Astrone via Github. Dans la plupart des cas, des communications supplémentaires via d'autres canaux seront initiés afin de mieux informer et sensibiliser les utilisateurs d'Astrone.

@@ -1,13 +1,13 @@
-- We are committed to providing a friendly, safe and welcoming environment for all, regardless of level of experience, gender identity and expression, sexual orientation, disability, personal appearance, body size, race, ethnicity, age, religion, nationality, or other similar characteristic.
+- Nous nous engageons à mettre à disposition un environnement amical, sain et accueillant pour tous, sans distinction de niveau d'expérience, d'identité et d'expression de genre, d'orientation sexuelle, de handicap, d'apparence corporelle, de corpulence, de race, d'ethnie, d'âge, de religion, de nationalité ou de toute autre caractéristique similaire
 
-- Please be kind and courteous. There’s no need to be mean or rude.
+- Nous vous remercions aussi d’être gentil et courtois. Il n'y a pas besoin d'être méchant ou malpoli.
 
-- Respect that people have differences of opinion and that every design or implementation choice carries a trade-off and numerous costs. There is seldom a right answer.
+- Respectez le fait que les personnes ont des opinions différentes et que chaque choix de concept ou d'implémentation comporte de nombreux compromis et différents coûts. Il y a rarement une bonne réponse pour tout le monde.
 
-- Please keep unstructured critique to a minimum.
+- Veuillez à éviter la critique non structurée dès que possible.
 
-- We will exclude you from interaction if you insult, demean or harass anyone. That is not welcome behavior. We interpret the term “harassment” as including the definition in the Citizen Code of Conduct; if you have any lack of clarity about what might be included in that concept, please read their definition. In particular, we don’t tolerate behavior that excludes people in socially marginalized groups.
+- Nous vous exclurons si vous insultez, rabaissez ou harcelez quelqu'un. Ceci n'est pas un comportement toléré. Nous interprétons le terme harcèlement comme incluant la définition du Citizen Code of Conduct; si le concept de harcèlement ne vous paraît pas parfaitement clair, s'il vous plaît lisez cette définition. En particulier nous ne tolérons pas les comportements qui excluent les gens dans des groupes sociaux marginalisés.
 
-- Private harassment is also unacceptable. No matter who you are, if you feel you have been or are being harassed or made uncomfortable by a community member, please contact one of the channel ops or any of the Rust moderation team immediately. Whether you’re a regular contributor or a newcomer, we care about making this community a safe place for you and we’ve got your back.
+- Le harcèlement privé est lui aussi inacceptable. Peu importe qui vous êtes, si vous avez le sentiment que vous avez été harcelé ou mis en situation inconfortable par un membre de la communauté, contactez immédiatement un des membres de l'équipe de modération . Que vous soyez un contributeur régulier ou récurrent, nous tenons à faire de la communauté un endroit sain, et nous sommes là pour vous aider.
 
-- Likewise any spamming, trolling, flaming, baiting or other attention-stealing behavior is not welcome.
+- De même, les comportements comme le spam, le troll, l'injure, la provocation ou tout autre mécanisme de détournement d'attention ne sont pas les bienvenus.
