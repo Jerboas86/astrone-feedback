@@ -1,8 +1,8 @@
 # Astrone
 
 <p align="center">
-  <span>English</span> |
-  <a href="https://github.com/Jerboas86/astrone-feedback/tree/master/lang/fr">Français</a>
+  <span>🇬🇧 English</span> |
+  <a href="https://github.com/Jerboas86/astrone-feedback/tree/master/lang/fr">🇫🇷 Français</a>
 </p>
 
 ### Audio Testing Platform
