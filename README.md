@@ -1,11 +1,16 @@
 # Astrone
 
+<p align="center">
+  <span>English</span>
+  <a href="https://github.com/Jerboas86/astrone-feedback/lang/fr/">Français</a> |
+</p>
+
 ### Audio Testing Platform
 
-Astrone est une application web qui permet de créer, utiliser, et partager facilement des applications DSP.
+Astrone is a web application to create, and share your own audio interactive applications.
 
-L'application est accessible sur [astrone.app](www.astrone.app)
+you can access the application at [astrone.app](www.astrone.app).
 
-## Rapport de bug
+## Bug Report
 
-## Demande de nouvelle fonctionnalité
+## Feature Request
