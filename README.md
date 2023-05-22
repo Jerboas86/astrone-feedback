@@ -10,7 +10,7 @@
 Astrone est une application web qui permet de créer, et partager facilement des applications DSP.
 L'application est accessible sur [astrone.app](www.astrone.app)
 
-## Code Of Conduct
+## Code De Conduite
 
 La communauté Astrone est destinée à soutenir **tous ses utilisateurs**. Nous souhaitons créer un environnement acceuillant et constructif.\
 **Toute persone** interagissant dans le cadre du projet Astrone se doit de suivre notre [code de conduite](https://github.com/Jerboas86/astrone-feedback/tree/master/CODE_OF_CONDUCT.md).
