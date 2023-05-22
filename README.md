@@ -12,6 +12,16 @@ you can access it at [astrone.app](www.astrone.app).
 
 ## Bug Report
 
+### What is a bug report ?
+
+> A software bug is an error, flaw or fault in the design, development, or operation of computer software that causes it to produce an incorrect or unexpected result, or to behave in unintended ways.\
+> [Wikipedia](https://en.wikipedia.org/wiki/Software_bug)
+
+We encourage you to let us know when you encouter a bug in our application.\
+The sooner the bug is reported, the quicker it will be fixed.
+
+To start a bug report, open an [issue](https://github.com/Jerboas86/astrone-feedback/issues/new/choose) and select Bug Report.
+
 ## Feature Request
 
 ## License

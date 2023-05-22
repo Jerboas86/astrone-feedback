@@ -12,6 +12,13 @@ L'application est accessible sur [astrone.app](www.astrone.app)
 
 ## Rapport de bug
 
+> Un bug logiciel est une erreur, un manque, ou un défaut dans le design, le
+> dévellopement, ou le fonctionnement d'un logiciel. Il entraine un résultat ou
+> comportement erroné ou inattendu.\
+> [Wikipedia](https://en.wikipedia.org/wiki/Software_bug)
+
+Pour remplir un rapport de bug, ouvrez une [issue](https://github.com/Jerboas86/astrone-feedback/issues/new/choose) et sélectionnez Bug Report. Les rapports de bug peuvent être écrit en français ou en anglais.
+
 ## Demande de nouvelle fonctionnalité
 
 ## License
