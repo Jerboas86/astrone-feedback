@@ -10,6 +10,11 @@
 Astrone est une application web qui permet de créer, et partager facilement des applications DSP.
 L'application est accessible sur [astrone.app](www.astrone.app)
 
+## Code Of Conduct
+
+La communauté Astrone est destinée à soutenir **tous ses utilisateurs**. Nous souhaitons créer un environnement acceuillant et constructif.\
+**Toute persone** interagissant dans le cadre du projet Astrone se doit de suivre notre [code de conduite](https://github.com/Jerboas86/astrone-feedback/tree/master/lang/fr/CODE_OF_CONDUCT.md).
+
 ## Rapport de bug
 
 ### Qu'est ce qu'un bug ?
@@ -37,6 +42,10 @@ Une demande de nouvelle fonctionnalité est le process par lequel une nouvelle f
 ### Les demandes de nouvelles fonctionnalités sont la bienvenue
 
 Pour remplir demande de nouvelle fonctionnalité, ouvrez une [issue](https://github.com/Jerboas86/astrone-feedback/issues/new/choose) et sélectionnez Feature Request. Les demandes de nouvelle fonctionnalité peuvent être écrit en français ou en anglais.
+
+## Discussions
+
+Venez poser vos questions dans l'onglet [Discussions](https://github.com/Jerboas86/astrone-feedback/discussions).
 
 ## License
 

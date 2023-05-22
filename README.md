@@ -10,6 +10,11 @@
 Astrone is a web application to create, and share your own audio interactive applications.
 you can access it at [astrone.app](www.astrone.app).
 
+## Code Of Conduct
+
+Astrone community is build to support **all users**. We want to provide a friendly and constructive environnement.\
+**Everyone** interacting in the Astrone project is exepected to follow our [code of conduct](https://github.com/Jerboas86/astrone-feedback/tree/master/CODE_OF_CONDUCT.md)
+
 ## Bug Report
 
 ### What is a bug ?
@@ -36,6 +41,10 @@ A feature request is the process to ask for a new feature to be added in Astrone
 ### Feature requests are welcome
 
 To start a feature request, open an [issue](https://github.com/Jerboas86/astrone-feedback/issues/new/choose) and select Feature Request.
+
+## Discussions
+
+Ask your questions in the [Discussions panel](https://github.com/Jerboas86/astrone-feedback/discussions).
 
 ## License
 
