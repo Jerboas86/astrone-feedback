@@ -2,6 +2,8 @@ Thanks for helping make Astrone safe for everyone 💙.
 
 ## Supported Version
 
+Supported version is the version available at [astrone.app](https://www.astrone.app)
+
 ## Reporting Security Issues
 
 Security is of the highest importance and all security vulnerabilities or suspected security vulnerabilities should be reported to Astrone privately,
