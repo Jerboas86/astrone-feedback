@@ -21,6 +21,10 @@ Pour remplir un rapport de bug, ouvrez une [issue](https://github.com/Jerboas86/
 
 ## Demande de nouvelle fonctionnalité
 
+Une demande de nouvelle fonctionnalité est le process par lequel une nouvelle fonctionalité peut être ajouter à Astrone.
+
+Pour remplir demande de nouvelle fonctionnalité, ouvrez une [issue](https://github.com/Jerboas86/astrone-feedback/issues/new/choose) et sélectionnez Feature Request. Les demandes de nouvelle fonctionnalité peuvent être écrit en français ou en anglais.
+
 ## License
 
 Pour le moment, le code source de l'application Astrone est fermé. Par contre, la totalité des documents présents

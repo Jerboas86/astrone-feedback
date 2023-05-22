@@ -24,6 +24,10 @@ To start a bug report, open an [issue](https://github.com/Jerboas86/astrone-feed
 
 ## Feature Request
 
+A feature request is the process to ask for a new feature to be added in Astrone.
+
+To start a feature request, open an [issue](https://github.com/Jerboas86/astrone-feedback/issues/new/choose) and select Feature Request.
+
 ## License
 
 For now, Astrone application is closed source code.
