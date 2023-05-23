@@ -5,7 +5,7 @@
   <a href="https://github.com/Jerboas86/astrone-feedback/">🇫🇷 Français</a>
 </p>
 
-### Audio Testing Platform
+### Audio Engineering Platform
 
 Astrone is a web application to create, and share your own audio interactive applications.
 you can access it at [astrone.app](www.astrone.app).

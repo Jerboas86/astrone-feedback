@@ -5,9 +5,9 @@
   <span>🇫🇷 Français</span>
 </p>
 
-### Audio Testing Platform
+### Audio Engineering Platform
 
-Astrone est une application web qui permet de créer, et partager facilement des applications DSP.
+Astrone est une application web qui permet de créer, et partager facilement vos propres applications audio-interactives.
 L'application est accessible sur [astrone.app](www.astrone.app)
 
 ## Code De Conduite
