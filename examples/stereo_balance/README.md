@@ -1,5 +1,10 @@
 # Balance stéréo
 
+<p align="center">
+  <a href="https://github.com/Jerboas86/astrone-feedback/tree/master/examples/stereo_balance/lang/en">🇬🇧 English</a> |
+  <span>🇫🇷 Français</span>
+</p>
+
 ## Description
 
 Un son pur est émis de façon dichotique. Vous pouvez controler:
