@@ -2,7 +2,7 @@
 
 <p align="center">
   <span>🇬🇧 English</span> |
-  <a href="https://github.com/Jerboas86/astrone-feedback/">🇫🇷 Français</a>
+  <a href="https://github.com/Jerboas86/astrone-feedback/tree/master/examples/stereo_balance">🇫🇷 Français</a>
 </p>
 
 ## Description
