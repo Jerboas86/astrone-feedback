@@ -18,5 +18,7 @@ L'élargissement de la bande passante du bruit permet d' en augmenter sa richess
 
 ## Utilisation
 
-- Télécharger le fichier `pitch_measure.astrone` présent dans ce dossier.
-- Et importer ce fichier dans le [playground](https://www.astrone.app/playground)
+- Télécharger le fichier `pitch_measure.astrone` présent dans ce dossier
+- Télécharger le fichier audio `white.ogg` présent dans ce dossier
+- Importer ce fichier dans le [playground](https://www.astrone.app/playground)
+- Et ajouter le fichier audio `white.ogg` dans la playlist du noeud `AudioPlayer`

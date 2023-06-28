@@ -18,5 +18,7 @@ The widening of the noise pass band increase the spectral richness.
 
 ## Usage
 
-- Dowload the file `pitch_measure.astrone` in the parent folder.
-- And import this file in the [playground](https://www.astrone.app/playground)
+- Dowload the file `pitch_measure.astrone` in the parent folder
+- Dowload the audio file `white.ogg` in the parent folder
+- Import this file in the [playground](https://www.astrone.app/playground)
+- And Add the audio file `white.ogg` in the playlist of `AudioPlayer` node
