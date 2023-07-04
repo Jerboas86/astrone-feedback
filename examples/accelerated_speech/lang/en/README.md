@@ -17,13 +17,6 @@ The sound source is slow down when `Vitesse` value is less than 1.
 
 ## Usage
 
-- Dowload the file `pitch_measure.astrone` in the parent folder
-- Dowload the audio file `white.ogg` in the parent folder
-- Import this file in the [playground](https://www.astrone.app/playground)
-- And Add the audio file `white.ogg` in the playlist of `AudioPlayer` node
-
-## Usage
-
 - Dowload the file `accelerated_speech.astrone` in the parent folder
 - Dowload the audio file `monolog.mp3` in the parent folder
 - Import this file in the [playground](https://www.astrone.app/playground)
